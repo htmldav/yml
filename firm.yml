@@ -40,6 +40,7 @@
            name: Dima3
            job: 
            team:
+      - paid: 1
     - dept2:
       - employees:
         - roman:
@@ -104,9 +105,11 @@
            age: "a little over 30"
     - dept5: 
       - employees: *dept
+      - paid: 2
     - dept6:
       - employees:
         - igor:
            name: "Игорь Викторович"
            job: "security director"
            age: "far beyond 50"
+      
