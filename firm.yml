@@ -85,23 +85,23 @@
         - yulya:
            name: Yulya1
            job: paperwork
-           team:
+           age: "a little over 30"
         - yulya:
            name: Yulya2
            job: paperwork
-           team:
+           age: "a little over 30"
         - yulya:
            name: Yulya3
            job: paperwork
-           team: 
+           age: "a little over 30"
         - yulya:
            name: Yulya4
            job: paperwork
-           team:
+           age: "a little over 30"
         - yulya:
            name: Yulya5
            job: paperwork
-           team:
+           age: "a little over 30"
     - dept5: 
       - employees: *dept
     - dept6:
