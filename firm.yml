@@ -4,8 +4,68 @@
   - depts:
     - dept1:
       - employees:
+        - olya:
+           name: Olya1
+           job: accountant
+           team: 
+        - olya:
+           name: Olya2
+           job: accountant
+           team:
+        - olya:
+           name: Olya3
+           job: accountant
+           team: 
+        - olya:
+           name: Olya4
+           job: accountant
+           team:
+        - ivan:
+           name: Ivan1
+           job: 
+           team: 
+        - ivan:
+           name: Ivan2
+           job: 
+           team:
+        - dima:
+           name: Dima1
+           job: 
+           team:
+        - dima:
+           name: Dima2
+           job: 
+           team: 
+        - dima:
+           name: Dima3
+           job: 
+           team:
     - dept2:
       - employees:
+        - roman:
+           name: Roman1
+           job: lawyer
+           team:
+        - roman:
+           name: Roman2
+           job: lawyer
+           team:
+        - roman:
+           name: Roman3
+           job: lawyer
+           team: 
+        - roman:
+           name: Roman4
+           job: lawyer
+           team:
+        - maxim:
+           name: Maxim1
+           job: driver
+           team:
+        - maxim:
+           name: Maxim2
+           job: driver
+           team:
     - dept3:
       - employees:
     - dept4:
