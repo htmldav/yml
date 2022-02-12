@@ -46,27 +46,27 @@
         - roman:
            name: Roman1
            job: lawyer
-           team:
+           age: "up to 30"
         - roman:
            name: Roman2
            job: lawyer
-           team:
+           age: "up to 30"
         - roman:
            name: Roman3
            job: lawyer
-           team: 
+           age: "up to 30" 
         - roman:
            name: Roman4
            job: lawyer
-           team:
+           age: "up to 30"
         - maxim:
            name: Maxim1
            job: driver
-           team:
+           age: "up to 30"
         - maxim:
            name: Maxim2
            job: driver
-           team:
+           age: "up to 30"
     - dept3:
       - employees:
         - ivan:
