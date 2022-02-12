@@ -106,3 +106,7 @@
       - employees: *dept
     - dept6:
       - employees:
+        - igor:
+           name: "Игорь Викторович"
+           job: "security director"
+           age: "far beyond 50"
