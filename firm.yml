@@ -80,7 +80,29 @@
            name: Olya5
            job: lawyer
            team: 
-    - dept4:
-      - employees:
-    - dept5:
+    - dept4: 
+      - employees: &dept
+        - yulya:
+           name: Yulya1
+           job: paperwork
+           team:
+        - yulya:
+           name: Yulya2
+           job: paperwork
+           team:
+        - yulya:
+           name: Yulya3
+           job: paperwork
+           team: 
+        - yulya:
+           name: Yulya4
+           job: paperwork
+           team:
+        - yulya:
+           name: Yulya5
+           job: paperwork
+           team:
+    - dept5: 
+      - employees: *dept
+    - dept6:
       - employees:
