@@ -1,0 +1,14 @@
+---
+- firm: 
+  - name: «Мечта»
+  - depts:
+    - dept1:
+      - employees:
+    - dept2:
+      - employees:
+    - dept3:
+      - employees:
+    - dept4:
+      - employees:
+    - dept5:
+      - employees:
