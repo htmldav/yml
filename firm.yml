@@ -68,6 +68,18 @@
            team:
     - dept3:
       - employees:
+        - ivan:
+           name: Ivan
+           job: builder
+           team:
+        - nikplay:
+           name: Nikolay
+           job: builder
+           team:
+        - olya:
+           name: Olya5
+           job: lawyer
+           team: 
     - dept4:
       - employees:
     - dept5:
