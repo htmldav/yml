@@ -7,40 +7,27 @@
         - olya:
            name: Olya1
            job: accountant
-           team: 
         - olya:
            name: Olya2
            job: accountant
-           team:
         - olya:
            name: Olya3
            job: accountant
-           team: 
         - olya:
            name: Olya4
            job: accountant
-           team:
         - ivan:
            name: Ivan1
-           job: 
-           team: 
         - ivan:
            name: Ivan2
            job: 
-           team:
         - dima:
            name: Dima1
-           job: 
-           team:
         - dima:
            name: Dima2
-           job: 
-           team: 
         - dima:
            name: Dima3
-           job: 
-           team:
-      - paid: 1
+      - paidStatus: 1
     - dept2:
       - employees:
         - roman:
@@ -67,20 +54,19 @@
            name: Maxim2
            job: driver
            age: "up to 30"
+      - averageAge: "up to 30"
+      - ageStatus: youngest
     - dept3:
       - employees:
         - ivan:
            name: Ivan
            job: builder
-           team:
         - nikplay:
            name: Nikolay
            job: builder
-           team:
         - olya:
            name: Olya5
            job: lawyer
-           team: 
     - dept4: 
       - employees: &dept
         - yulya:
@@ -103,13 +89,16 @@
            name: Yulya5
            job: paperwork
            age: "a little over 30"
+      - averageAge: "a little over 30"
     - dept5: 
       - employees: *dept
-      - paid: 2
+      - paidStatus: 2
+      - ageStatus: oldest
     - dept6:
       - employees:
         - igor:
            name: "Игорь Викторович"
            job: "security director"
            age: "far beyond 50"
+      - averageAge: "far beyond 50"
       
